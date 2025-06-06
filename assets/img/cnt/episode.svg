@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="210" height="120" viewBox="0 0 210 120">
+  <g id="episode" transform="translate(-776 -1261)">
+    <rect id="Imagen_27" data-name="Imagen 27" width="210" height="120" transform="translate(776 1261)" fill="#f5f5f5"/>
+    <g id="img-stack" transform="translate(857 1297)" opacity="0.5">
+      <rect id="Rectángulo_30" data-name="Rectángulo 30" width="42" height="36" transform="translate(3 9)" fill="none" stroke="#b3b3b3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <line id="Línea_1" data-name="Línea 1" x2="28" transform="translate(10 3)" fill="none" stroke="#b3b3b3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <path id="Trazado_43" data-name="Trazado 43" d="M10,38l7-10,5,4,8-11,9,17Z" fill="none" stroke="#b3b3b3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+      <circle id="Elipse_1" data-name="Elipse 1" cx="3" cy="3" r="3" transform="translate(14 16)" fill="none" stroke="#b3b3b3" stroke-linecap="square" stroke-miterlimit="10" stroke-width="2"/>
+    </g>
+  </g>
+</svg>
